@@ -44,4 +44,8 @@ This repository, **ml-dl**, is a comprehensive collection of end-to-end projects
 
 ---
 
+## Author
+
+Created by **@anirudhch7**.
+
 *Contributions and feedback are welcome!*
